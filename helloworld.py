@@ -96,7 +96,7 @@ if 5 and None:
         print('yea')
 else:
         print("No"
-'''
+
 
 # Python code to demonstrate copy operations 
   
@@ -130,7 +130,7 @@ for i in range(0,len( li2)):
     print (li2[i],end=" ") 
 
 
-
+'''
 
 
 
